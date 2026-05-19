@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog!
 
-hola mundo
+<p>"hola"</p>
 ---
